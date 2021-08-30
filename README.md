@@ -4,4 +4,4 @@
 
 In the words of ME (as a God)
 
-> **Fear me_tiny_mortals**
+> **Fear me _tiny_ mortals**
