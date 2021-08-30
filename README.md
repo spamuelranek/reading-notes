@@ -5,7 +5,7 @@ Hello, I am Samuel Panek. I like to ride bikes. [My Portfolio](https://github.co
 
 # Code 102 Reading
 
-![A poor human illustration of me](Zeus God.jpeg)
+![A poor human illustration of me](Zeus-God.jpeg)
 
 
 In the words of ME (as a God)
