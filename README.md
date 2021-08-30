@@ -1,5 +1,5 @@
 #Intro:
-Hello, I am Samuel Panek. I like to ride bikes. [My Portfolio] (https://github.com/spamuelranek)
+Hello, I am Samuel Panek. I like to ride bikes. [My Portfolio](https://github.com/spamuelranek)
 
 ## This is my reading notes repository
 
