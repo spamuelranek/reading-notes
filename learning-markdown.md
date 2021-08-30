@@ -11,7 +11,7 @@ Is there ways for me to know what the end user would be seeing? Is there a bless
   - __There be. The most basic is how to twist words.__
   - __To speak with the power of God (Bold) `__chosen words__`__
   - ***To elicit pain of word (Italics) `_chosen words_`***
-  - __To place words directly in to minds (Strikethrough) `~~chosen words~~`__
+  - __~~To place words directly in to minds (Strikethrough) `~~chosen words~~`~~__
   - __To speak of my words (Quote) `> chosen words`__
   - __To be able to list my commandmants (Ordered List) `1. Chosen word 2.Chosen Words`__
   - __To pontificate in series (Unordered List) `-/* chosen words -/* chosen words`__
