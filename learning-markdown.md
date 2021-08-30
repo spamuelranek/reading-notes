@@ -18,4 +18,10 @@ Is there ways for me to know what the end user would be seeing? Is there a bless
   - __To derive the minutiae of My Theology (Nested List) `- chosen words`__
     - __You must go deeper                                    `- chosen words`__
       - __You must go even deeper within yourself__
+  - __If you wish to connect to a specific piece of scripture (Creating Link) `[Chosen word](location of item)`__
+  - __If you are looking to damn or bless a specific person (Mentions) `@username`__
+
+Thine Grace be done, you have gifted me with immense knowledge. I will work with it again and again until it becomes second nature. Is there more to learn after this, oh wise one?
+  - __Always my young disciple. Maintain the Growth Mindset. Learning is forever.
+
           
