@@ -15,7 +15,7 @@ Is there ways for me to know what the end user would be seeing? Is there a bless
   - __To speak of my words (Quote) `> chosen words`__
   - __To be able to list my commandmants (Ordered List) `1. Chosen word 2.Chosen Words`__
   - __To pontificate in series (Unordered List) `-/* chosen words -/* chosen words`__
-  - __To derive the minutiae of My Theology (Nested List) `- chosen words`
-    - __You must go deeper                                    `- chosen words`
-      - __You must go even deeper within yourself
+  - __To derive the minutiae of My Theology (Nested List) `- chosen words`__
+    - __You must go deeper                                    `- chosen words`__
+      - __You must go even deeper within yourself__
           
