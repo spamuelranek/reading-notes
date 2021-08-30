@@ -25,3 +25,7 @@ In the words of ME (as a God)
       1. Failure is not bad. It is part of the plan.
       2. This is going to be hard.
       3. Ask for help. Do not let yourself be stuck just to be stuck
+
+### Reading Notes: Learning Markdown
+    [Learning Markdown](Learning-Markdown.md)
+    
