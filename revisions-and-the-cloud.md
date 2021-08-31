@@ -1,6 +1,6 @@
 # THIS BE THE STRUCTURE OF OUR FAITH AND ITS DIFFERENT SECTS
 
-###Version Control
+### Version Control
 #### How does your community construct your worship of ME
   - Is it a Local Version Control?
     - Only your community follows these practices
