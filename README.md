@@ -33,7 +33,7 @@ In the words of ME (as a God)
   [The Coder's Computer](the-coders-computer.md)
   
 ### Reading Notes : Revision and The Cloud
-  [Revision and The Cloud](revisions-and-the-cloud.md)
+  [Revisions and The Cloud](revisions-and-the-cloud.md)
   
     
     
