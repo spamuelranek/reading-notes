@@ -31,5 +31,9 @@ In the words of ME (as a God)
    
 ### Reading Notes: The Coder's Computer
   [The Coder's Computer](the-coders-computer.md)
+  
+### Reading Notes : Revision and The Cloud
+  [Revision and The Cloud](revision-and-the-cloud.md)
+  
     
     
