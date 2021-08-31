@@ -29,3 +29,6 @@
    - `cp` Copies selected item. will need path and file name e.i.` cp 101_test/reading.md`
    - `mv` Moves selected item. will need path and file name e.i. ` mv 101_test/reading.md`
    - `rm` Removes seleced item. will need path and file name e.i. `rm 101_test/reading.md`
+7. One must learn caution when using regular words with these words of power. These words of power sees everything as a file.
+8. These words of power read books to understand them instead of looking at the cover.
+9. To make one invisible to the simple words of power `.` To check for invisible entities `ls -a`
