@@ -34,6 +34,10 @@ In the words of ME (as a God)
   
 ### Reading Notes : Revision and The Cloud
   [Revisions and The Cloud](revisions-and-the-cloud.md)
+
+### Reading Notes: Structure Web Pages with HTML
+  [Structure Web Pages with HTML](html-notes.md)
+  
   
     
     
