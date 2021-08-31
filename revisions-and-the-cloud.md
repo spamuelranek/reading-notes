@@ -15,6 +15,6 @@
     - These additions are sent to the central and then onto all the other branches
     - More resilent due to cell like behavior of each follower having the whole dogma
   #### Be aware of some of the drawbacks of these designs
-  -LVC is only one place at one time. No one can be converted outside of the place of worship. If anything happens to that place, everthing is lost.
-  -CVC allows for more oversight. It can streamline development of the dogma, but it is harder when there are more remote followers. It houses everything in one location which can be damaged
-  -DVC allows for more workers. Harder to manage with out vision of what the dogma should look like.
+  - LVC is only one place at one time. No one can be converted outside of the place of worship. If anything happens to that place, everthing is lost.
+  - CVC allows for more oversight. It can streamline development of the dogma, but it is harder when there are more remote followers. It houses everything in one location which can be damaged
+  - DVC allows for more workers. Harder to manage with out vision of what the dogma should look like.
