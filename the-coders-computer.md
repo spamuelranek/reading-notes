@@ -32,3 +32,6 @@
 7. One must learn caution when using regular words with these words of power. These words of power sees everything as a file.
 8. These words of power read books to understand them instead of looking at the cover.
 9. To make one invisible to the simple words of power `.` To check for invisible entities `ls -a`
+
+[The Temple](README.md)
+
