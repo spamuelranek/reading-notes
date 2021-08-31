@@ -27,5 +27,5 @@ There is a flow to the world of git. It is not one of lofty titles but of action
 - Push `git push BLANK`
 These actions, these tenents are the way to move and track the changes in dogma. Each follower can copy the most up to date tomes of dogma for themselves. Once they have deciphered or explored enough to add back to the dogma they can, but they have to follow the steps. `git add` places the new dogma in a staging area. When the new addition is ready it can be commited for review in the central dogma area. On approval it then will be pushed back to the library so everyone can make copies of the whole dogma again.
 
-[HOME](reading-notes.md)
+[HOME](README.md)
 
