@@ -28,5 +28,8 @@ In the words of ME (as a God)
 
 ### Reading Notes: Learning Markdown
    [Learning Markdown](learning-markdown.md)
+   
+### Reading Notes: The Coder's Computer
+  [The Coder's Computer](the-coders-computer.md)
     
     
