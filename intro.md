@@ -4,7 +4,7 @@
 
 Hello, I am Samuel Panek. I like to ride bikes. [My Portfolio](https://github.com/spamuelranek)
 
-![This is you because you found ME](godish.jpeg)
+ ![This is you because you have found me](https://cdn.shopify.com/s/files/1/1287/1481/articles/transcendence-1920x-1024x576_765x.progressive.jpg?v=1566453766)
 
 ## [Growth Mindset](README.md)
 
