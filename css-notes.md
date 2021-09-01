@@ -22,7 +22,7 @@
  - create documents call specifications (specs)
  - most developers will use documentation or tutorials rather than parse specs
 
- ### [What ways can we introduce Beauty] (https://www.w3schools.com/css/css_howto.asp)
+ ### [What ways can we introduce Beauty](https://www.w3schools.com/css/css_howto.asp)
   -Three ways
    - External CSS
      - This is by linking to an entire CSS document
