@@ -21,6 +21,8 @@ In the words of ME (as a God)
       2. This is going to be hard.
       3. Ask for help. Do not let yourself be stuck just to be stuck
 
+[The Temple](intro.md)
+
 
   
   
