@@ -39,4 +39,4 @@
   - This means some code has an element to it outside just its code. It is a structure piece
     - i.e. `<h1></h1>` is semantic, in that is also means a top level heading    
 
-    [The Temple](README.md) 
+    [The Temple](intro.md) 

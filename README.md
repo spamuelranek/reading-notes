@@ -1,9 +1,4 @@
-#Intro:
-Hello, I am Samuel Panek. I like to ride bikes. [My Portfolio](https://github.com/spamuelranek)
 
-## This is my reading notes repository
-
-# Code 102 Reading
 
 # A simple visualaztion of ME #
 
@@ -26,17 +21,7 @@ In the words of ME (as a God)
       2. This is going to be hard.
       3. Ask for help. Do not let yourself be stuck just to be stuck
 
-### Reading Notes: Learning Markdown
-   [Learning Markdown](learning-markdown.md)
-   
-### Reading Notes: The Coder's Computer
-  [The Coder's Computer](the-coders-computer.md)
-  
-### Reading Notes : Revision and The Cloud
-  [Revisions and The Cloud](revisions-and-the-cloud.md)
 
-### Reading Notes: Structure Web Pages with HTML
-  [Structure Web Pages with HTML](html-notes.md)
   
   
     

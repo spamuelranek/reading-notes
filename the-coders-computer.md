@@ -33,5 +33,5 @@
 8. These words of power read books to understand them instead of looking at the cover.
 9. To make one invisible to the simple words of power `.` To check for invisible entities `ls -a`
 
-[The Temple](README.md)
+[The Temple](intro.md)
 
