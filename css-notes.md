@@ -42,6 +42,8 @@
 
  ### [Color Inheritence](https://www.w3schools.com/cssref/css_inherit.asp) 
   - One can set up systems by using classes almot like iff
+
+[The Temple](intro.md)
              
     
 

@@ -13,7 +13,7 @@ Hello, I am Samuel Panek. I like to ride bikes. [My Portfolio](https://github.co
 2. [The Coder's Computer](the-coders-computer.md)
 3. [Revisions and The Cloud](revisions-and-the-cloud.md)
 4. [Structure Web Pages with HTML](html-notes.md)
-5. [Reading 5]
-6. [Reading 6]
+5. [Design Web Pages with CSS](css-notes.md)
+6. [Dynamic Web Pages with JavaScript](javascript.md)
 7. [Reading 7]
 8. [Reading 8]
