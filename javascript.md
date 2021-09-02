@@ -10,7 +10,6 @@
  - Variables are containers for storing data (values)
  - `var x = 5;`
  - `var x = x + 5;`
- - `var fish = "Marco";`
  - `var sandwich = "Polo";`
  - `var explore = fish + sandwich`
    - There are rules to what can and cant be a variable
@@ -24,7 +23,7 @@
     - `var x = "John" + " " + "Doe"`
      - `x = John Doe`
 
-#### [Additional Practice](ode-maven.com/input-output-in-plain-javascript)
+#### [Additional Practice](code-maven.com/input-output-in-plain-javascript)
 
 [The Temple](intro.md)
     
