@@ -68,8 +68,7 @@
     |<=|less than or equal to|
     |>=|greater or equal to|
     |?|ternarty operator|
-    
 
-    ###
+[The Temple](intro.md)
 
     
