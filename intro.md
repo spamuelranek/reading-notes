@@ -16,4 +16,4 @@ Hello, I am Samuel Panek. I like to ride bikes. [My Portfolio](https://github.co
 5. [Design Web Pages with CSS](css-notes.md)
 6. [Dynamic Web Pages with JavaScript](javascript.md)
 7. [Programming with JavaScript](functions-javascript.md)
-8. [Reading 8]
+8. [Operators and Loops](javascript_loops.md)
