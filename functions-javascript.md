@@ -26,6 +26,7 @@
  - Definition not action
   - A function does not run because it is written
   -__It Must Be Invoked__
+  -Will continue until reaches a return state
  - What variables can talk to which (Scope)
     - Global variables can talk to any variable
     - Variables defined in a function can only interact through that function
@@ -55,5 +56,20 @@
     - `function add` is a nested function
       - These functions can access all the variables in the total function 
     ### [Operators (lots'o'forms and options)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+    ### [So Many](https://www.w3schools.com/js/js_operators.asp)
+    |Operator|Description|
+    |---|---|
+    |==|equal to|
+    |===|equal value and equal type|
+    |!=| not equal|
+    |!==|not equal or not equal type|
+    |>|greater than|
+    |<|less than|
+    |<=|less than or equal to|
+    |>=|greater or equal to|
+    |?|ternarty operator|
+    
+
+    ###
 
     
