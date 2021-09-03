@@ -56,7 +56,9 @@
     - `function add` is a nested function
       - These functions can access all the variables in the total function 
     ### [Operators (lots'o'forms and options)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+    
     ### [So Many](https://www.w3schools.com/js/js_operators.asp)
+
     |Operator|Description|
     |---|---|
     |==|equal to|
